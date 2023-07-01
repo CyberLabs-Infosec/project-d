@@ -1,4 +1,4 @@
-# CTF Scout
+# CTF_SCOUT
 A tool to assist user in a CTF
 Capture the Flag Web Scraper Tool
 Overview
